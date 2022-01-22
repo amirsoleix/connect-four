@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1578483327 source:c:\users\pcadministrator\desktop\connectfourgame\main.cpp
+	"game.h"
+
+1577904993 c:\users\pcadministrator\desktop\connectfourgame\graphical.h
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+
+1578476868 c:\users\pcadministrator\desktop\connectfourgame\pages.h
+	"graphical.h"
+
+1578484628 c:\users\pcadministrator\desktop\connectfourgame\game.h
+	"pages.h"
+
+1578505564 source:d:\connectfourgame\main.cpp
+	"game.h"
+
+1578508763 d:\connectfourgame\game.h
+	"pages.h"
+
+1578506023 d:\connectfourgame\pages.h
+	"graphical.h"
+
+1577904993 d:\connectfourgame\graphical.h
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+
+1578505564 source:f:\connectfourgame\main.cpp
+	"game.h"
+
+1578508763 f:\connectfourgame\game.h
+	"pages.h"
+
+1578506023 f:\connectfourgame\pages.h
+	"graphical.h"
+
+1577904993 f:\connectfourgame\graphical.h
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+
